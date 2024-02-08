@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Bem-vindo ao portfólio do Note Experts! Apresento com entusiasmo o meu projeto mais recente, desenvolvido utilizando React, TypeScript, Vite, Tailwind CSS, Lucide e Sonner Radix UI. O Note Experts é uma aplicação para transcrever texto para áudio, onde você pode adicionar uma nota através de digitação ou áudio, além de poder apagar e salvar as notas no localStorage. A barra de busca permite buscar pelas notas adicionadas.
+Bem-vindo ao Note Experts! Apresento com entusiasmo o meu projeto mais recente, desenvolvido utilizando React, TypeScript, Vite, Tailwind CSS, Lucide e Sonner Radix UI. O Note Experts é uma aplicação para transcrever texto para áudio, onde você pode adicionar uma nota através de digitação ou áudio, além de poder apagar e salvar as notas no localStorage. A barra de busca permite buscar pelas notas adicionadas.
 
 ## ⚙️ Funcionalidades
 
