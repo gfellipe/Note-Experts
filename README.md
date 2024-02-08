@@ -53,7 +53,7 @@ Esperamos que o Note Experts seja útil para transcrever texto para áudio de fo
 
 ## 🔗 Preview
 
-  <a href="link-do-seu-projeto" target="_blank">Ver o Note Experts</a>
+  <a href="https://note-experts.vercel.app/" target="_blank">Ver o Note Experts</a>
 
 ## :memo: Licença
 
